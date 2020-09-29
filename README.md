@@ -7,4 +7,4 @@ Pistän tänne muutamia koodin pätkiä. Ajatuksena olisi, että täältä katso
 
 Sisällys: 
 - Omaa (kotisivun pohja)
-- 
+- OmaHauva (kotisivun toinen sivu, jossa Emmin kuvia)
